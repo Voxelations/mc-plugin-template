@@ -1,5 +1,5 @@
 [versions]
-mc-commons = "1.0.0-SNAPSHOT"
+mc-commons = "1.0.0"
 
 [libraries]
 mc-commons-common = { module = "com.voxelations:mc-commons-common", version.ref = "mc-commons" }
